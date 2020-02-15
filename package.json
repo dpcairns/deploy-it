@@ -1,7 +1,6 @@
 {
   "name": "deploy-it",
-  "homepage": "http://dpcairns.github.io/deploy-it"
-
+  "homepage": "https://dpcairns.github.io/deploy-it",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
